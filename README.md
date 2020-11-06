@@ -1,5 +1,8 @@
 # Domlock | Domain to ASN & Netblock
 
+## Screenshots
+![domlock](domlock.png)
+
 ## Instructions for running
 1. Install requirements using `pip3 install -r requirements.txt`.
 2. Run `python3 domlock.py`.<br>
